@@ -1,0 +1,24 @@
+{
+   "author": "Tudo Tuts - Tutoriais e Videos",
+   "background": {
+      "scripts": [
+          "js/SoundManager-V2-97a-20121104.js",
+          "js/player.js"
+         ]
+   },
+   "browser_action": {
+      "default_icon": "images/off.png",
+      "default_title": "Só Sertaneja - M SONHO, UM PROJETO, TANTO EMPENHO, MUITO PRAZER, UMA LUTA, UMA VIDA, UM SONHO REALIZADO. NÃO TEMOS OUVINTES OU INTERNAUTAS. TEMOS 'AMIGOS'"
+   },
+   "description": " Só Sertaneja ",
+   "homepage_url": "http://www.sosertaneja.com/",
+   "icons": {
+      "128": "images/logo.png",
+      "48": "images/logo.png"
+   },
+   "manifest_version": 2,
+   "name": "sosertaneja",
+   "short_name": "Só Sertaneja",
+   "version": "1.0.0",
+   "web_accessible_resources": [ "images/*.png" ]
+}
