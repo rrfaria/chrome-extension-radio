@@ -11,3 +11,8 @@ chrome://extensions/
 ```
 
 Carregar sem compactação
+ 
+ 
+ ## Lib usada
+ 
+ https://github.com/scottschiller/SoundManager2
